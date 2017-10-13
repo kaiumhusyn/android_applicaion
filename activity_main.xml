@@ -50,4 +50,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="29dp"
         android:text="Already have an account? Sign in " />
+
 </RelativeLayout>
